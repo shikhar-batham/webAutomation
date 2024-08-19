@@ -7,8 +7,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class SignUpPage {
 
-    @FindBy(name = "email")
-    WebElement email;
+
 
 
 }
